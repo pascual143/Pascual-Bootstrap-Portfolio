@@ -3,13 +3,14 @@ img {
     padding: 20px;
 }
 
+hr {
+    color: blue;
+    width: 20%;
+}
+
 .i__facts {
     font-size: 35px;
     margin-left: 10px;
-}
-
-.i__full {
-
 }
 
 .p__full {
